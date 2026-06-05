@@ -19,7 +19,7 @@ Student_Training_Institute_Website/
 │
 ├── index.html
 │
-└── asset/
+└── images/
     ├── logo.png
     ├── trainer1.jpg
     ├── trainer2.jpg
@@ -109,7 +109,7 @@ Student_Training_Institute_Website/
 ## 🚀 How to Run
 
 1. Download or clone this repository.
-2. Ensure all images are placed inside the `asset` folder.
+2. Ensure all images are placed inside the `images` folder.
 3. Open `index.html` in any modern web browser.
 
 
